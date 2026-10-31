@@ -30,4 +30,6 @@ xattr -cr /Applications/SatSSTV.app
 
 ## Donner un retour
 
+Si une carte son manque dans **Radio & audio** ou ne s'ouvre pas, joindre le texte du bouton **📋 Copier le diagnostic audio**.
+
 Ouvrir un [ticket](https://github.com/f4lps/SatSSTV-Mac/issues) en indiquant le modèle de Mac, la version de macOS et ce qui ne marche pas.
