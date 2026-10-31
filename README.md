@@ -6,6 +6,8 @@ Version de **test** de [SatSSTV](https://github.com/f4lps/SatSSTV) par F4LPS, po
 
 ➡️ **[Dernière version de test](https://github.com/f4lps/SatSSTV-Mac/releases/latest)** : `SatSSTV-x.y.z-macOS.dmg`
 
+📖 **[Notice en français (PDF)](https://github.com/f4lps/SatSSTV/raw/main/Notice-SatSSTV.pdf)**
+
 ## Installer
 
 1. Ouvrir le `.dmg` et glisser **SatSSTV** dans **Applications**.
