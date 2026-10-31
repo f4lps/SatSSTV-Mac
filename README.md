@@ -1,10 +1,10 @@
-# SatSSTV pour Mac — version de test
+# SatSSTV pour Mac
 
-Version de **test** de [SatSSTV](https://github.com/f4lps/SatSSTV) par F4LPS, pour macOS 11 ou plus récent (Mac Apple et Intel). Elle n'a pas encore été essayée sur une vraie station : vos retours sont les bienvenus.
+[SatSSTV](https://github.com/f4lps/SatSSTV) par F4LPS, pour macOS 11 ou plus récent (Mac Apple et Intel). Vos retours sont les bienvenus.
 
 ## Télécharger
 
-➡️ **[Dernière version de test](https://github.com/f4lps/SatSSTV-Mac/releases/latest)** : `SatSSTV-x.y.z-macOS.dmg`
+➡️ **[Dernière version](https://github.com/f4lps/SatSSTV-Mac/releases/latest)** : `SatSSTV-x.y.z-macOS.dmg`
 
 📖 **[Notice en français (PDF)](https://github.com/f4lps/SatSSTV/raw/main/Notice-SatSSTV.pdf)**
 
